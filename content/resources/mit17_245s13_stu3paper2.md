@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5b964f99-a239-0c93-8024-c1a985df7187
 resourcetype: Document
 title: '17.245S13 Constitutional Law: Student 3 Paper 2'
 uid: 4c15eca7-f852-9cc1-ce02-c6e77eaa8460

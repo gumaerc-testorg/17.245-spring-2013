@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5b964f99-a239-0c93-8024-c1a985df7187
 resourcetype: Document
 title: '17.245S13 Constitutional Law: Writing Guidelines'
 uid: 09f4ce36-418d-1840-b320-010ea3def74e

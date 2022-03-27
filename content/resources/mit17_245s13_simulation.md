@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: eae4527f-6b23-c87c-9c50-cf17d0f48a8b
 resourcetype: Document
 title: '17.245S13 Constitutional Law: Legal Simulation'
 uid: f3c137e1-21a2-7d71-5897-0e7c4041bc18
