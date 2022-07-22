@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture optics, exams, and assignment
+  due dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: eae4527f-6b23-c87c-9c50-cf17d0f48a8b
 ---
@@ -312,7 +316,7 @@ Personal Liberty & Right to Privacy II: Right to Privacy Beyond Abortion
 {{< tdopen >}}
 
 
-Class exercise: [Legal Simulation (PDF)]({{< baseurl >}}/resources/mit17_245s13_simulation)
+Class exercise: {{% resource_link f3c137e1-21a2-7d71-5897-0e7c4041bc18 "Legal Simulation (PDF)" %}}
 
 _The class is broken up into two groups. Each group makes legal arguments regarding the hypothetical case in the pdf above._
 

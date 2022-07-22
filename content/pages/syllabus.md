@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, requirements, texts, grading policy, and a note on academic
+  integrity.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b59f51a4-6fed-5189-989d-ad0df1e6729d
 ---
@@ -35,7 +40,7 @@ Epstein, Lee, and Thomas G. Walker. _Constitutional Law for a Changing America: 
 
 Baum, Lawrence. _The Supreme Court_. 11th ed. CQ Press, 2012. ISBN: 9781452220963.
 
-Additional readings come from a variety of sources and are detailed in the [Readings]({{< baseurl >}}/pages/readings) section.
+Additional readings come from a variety of sources and are detailed in the {{% resource_link d0d7efd5-a664-ac45-483b-270012ee8bdf "Readings" %}} section.
 
 Grading Policy
 --------------
