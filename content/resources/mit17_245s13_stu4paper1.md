@@ -5,6 +5,7 @@ file: /courses/17-245-constitutional-law-structures-of-power-and-individual-righ
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '17.245S13 Constitutional Law: Student 4 Paper 1'
 uid: ab88e93d-f957-e34e-a821-f258569deaa7
 ---
 This file contains information regarding student 4 paper 1.
-
