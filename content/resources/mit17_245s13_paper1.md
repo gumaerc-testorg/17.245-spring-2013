@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This file contains information regarding paper 1.
-file: /courses/17-245-constitutional-law-structures-of-power-and-individual-rights-spring-2013/4e4eab38db1264bc0a719d72b1eec0cb_MIT17_245S13_Paper1.pdf
+file: /ol-ocw-studio-app/courses/17-245-constitutional-law-structures-of-power-and-individual-rights-spring-2013/4e4eab38db1264bc0a719d72b1eec0cb_MIT17_245S13_Paper1.pdf
+file_size: 99305
 file_type: application/pdf
 learning_resource_types:
 - Assignments

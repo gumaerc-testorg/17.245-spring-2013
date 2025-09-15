@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This file contains information regarding student 4 paper 1.
-file: /courses/17-245-constitutional-law-structures-of-power-and-individual-rights-spring-2013/ab88e93df957e34ea821f258569deaa7_MIT17_245S13_Stu4Paper1.pdf
+file: /ol-ocw-studio-app/courses/17-245-constitutional-law-structures-of-power-and-individual-rights-spring-2013/ab88e93df957e34ea821f258569deaa7_MIT17_245S13_Stu4Paper1.pdf
+file_size: 801097
 file_type: application/pdf
 learning_resource_types:
 - Assignments

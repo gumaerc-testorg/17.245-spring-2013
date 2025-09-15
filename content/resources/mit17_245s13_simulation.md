@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This file contains information regarding simulation.
-file: /courses/17-245-constitutional-law-structures-of-power-and-individual-rights-spring-2013/f3c137e121a27d7158970e7c4041bc18_MIT17_245S13_Simulation.pdf
+file: /ol-ocw-studio-app/courses/17-245-constitutional-law-structures-of-power-and-individual-rights-spring-2013/f3c137e121a27d7158970e7c4041bc18_MIT17_245S13_Simulation.pdf
+file_size: 716375
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
